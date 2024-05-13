@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Nguyen Tien\\Downloads\\sqljdbc_12.2.0.0_enu\\sqljdbc_12.2\\enu\\mssql-jdbc-12.2.0.jre8.jar",
+            "c:\\Users\\Nguyen Tien\\Downloads\\sqljdbc_12.2.0.0_enu\\sqljdbc_12.2\\enu\\mssql-jdbc-12.2.0.jre11.jar",
+            "d:\\CodeJava\\sqljdbc_12.2.0.0_enu\\sqljdbc_12.2\\enu\\mssql-jdbc-12.2.0.jre11.jar",
+            "c:\\Users\\Vubiz\\Downloads\\sqljdbc_12.2\\enu\\mssql-jdbc-12.2.0.jre8.jar",
+            "c:\\Users\\Vubiz\\Downloads\\sqljdbc_12.2\\enu\\mssql-jdbc-12.2.0.jre11.jar"
+        ],
+        "exclude": [
+            "lib/mssql-jdbc-12.2.0.jre11.jar",
+            "lib/mssql-jdbc-12.2.0.jre8.jar"
+        ]
+    }
+}
